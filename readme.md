@@ -15,3 +15,13 @@ Stampa il valore della variabile `circle` in console.
 ​
 **Esercizio 3**
 Dichiara una variabile chiamata `name` e assegnale il valore "Carlo". Successivamente, modifica il valore della variabile in "Marco". Stampa il nuovo valore in console.
+
+**Esercizio 4**
+Dichiara una variabile chiamata `greet` e assegnale il valore "Ciao, Mondo!". Stampa il valore della variabile in console.
+
+**Esercizio 4/B**
+Prova a dichiarare di nuovo la variabile chiamata `greet` assegnandole il valore "Come stai, Mondo?". Stampa il valore della variabile in console.
+
+**Esercizio 4/C**
+Modifica il valore della variabile `greet` in modo da ottenere la stringa "Ciao, Mondo! Come stai?". Stampa il valore della variabile in console.
+*Nota:* Prova a eseguire questo esercizio sia con la concatenazione di stringhe sia con i template literals.
