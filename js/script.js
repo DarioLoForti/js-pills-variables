@@ -29,5 +29,49 @@ console.log(greet);
 console.log(greet); */
 
 // esercizio 4/c
+
 greet = greet + "come stai?";
 console.log(greet)
+
+let num_1 = 8;
+let num_2 = 5;
+
+let comparison;
+
+if(num_1 > num_2){
+    comparison = num_1;
+}
+else{
+    comparison = num_2;
+}
+console.log(comparison);
+
+// esercizio 2
+
+
+let nome_1 = "marco";
+
+let nome_2 = "marco";
+
+let comparison_1;
+
+if(nome_1 == nome_2){
+    comparison_1 = true
+}
+else{
+    comparison_1 = false
+}
+console.log(comparison_1)
+
+// esercizio 3
+
+let numb = 10;
+let comparison_2;
+if(numb == "10"){
+    comparison_2 = true
+}
+else{
+    comparison_2 = false
+}
+
+console.log(comparison_2);
