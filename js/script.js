@@ -81,3 +81,8 @@ console.log(comparison_2);
 for(let i=1; i<=42; i++){
     console.log(i);
 }
+// esercizio 1/b
+
+for(let i=42; i>=1; i--){
+    console.log(i);
+}
