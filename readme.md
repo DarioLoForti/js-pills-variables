@@ -34,3 +34,6 @@ Assegna alla variabile `comparison_1` il risultato del confronto tra due stringh
 
 **Esercizio 3**
 Assegna alla variabile `comparison` il risultato del confronto tra un numero e una stringa (che rappresenta un numero) per verificare se sono uguali. Stampa sulla console il valore di `comparison`
+
+**Esercizio 1/A**  
+Scrivi un *ciclo for* che stampi i numeri interi da 1 a 42 (compresi)  
