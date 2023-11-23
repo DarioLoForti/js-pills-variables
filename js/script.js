@@ -92,5 +92,10 @@ for(let i=42; i>=1; i--){
 const arrey = [1,2,3,4,5,6,7,8];
 console.log(arrey);
 
+// esercizio 1/B
 const fruits = ["mela", "banana", "pesca", "pera", "albicocca", "mango", "kiwi", "papaya"];
 console.log(fruits);
+
+// esercizio 1/C
+
+console.log(fruits.length);
