@@ -37,3 +37,35 @@ Assegna alla variabile `comparison` il risultato del confronto tra un numero e u
 
 **Esercizio 1/A**  
 Scrivi un *ciclo for* che stampi i numeri interi da 1 a 42 (compresi)  
+
+**Esercizio 1/B**  
+Ora riscrivi il *ciclo for* in modo che stampi i numeri interi da 42 a 1
+
+**Esercizio 1/A**  
+Definisci un array contenente 8 numeri interi e memorizzalo nella costante `numbers`
+
+**Esercizio 1/B**  
+Definisci un array contenente le stringhe che seguono e memorizzalo nella costante `fruits`: 
+```
+mela, banana, pesca, pera, albicocca, mango, kiwi, papaya
+```
+
+**Esercizio 1/C**  
+Stampa in console il numero di elementi che costituiscono l'array `fruits`
+
+**Esercizio 2/A**
+1. Chiedi all'utente un numero intero e memorizzalo nella costante numOfElements
+2. Crea un array numbers e riempilo con i numeri interi da 1 a numOfElements
+3. Stampa in console l'array numbers e il numero di elementi di cui si compone
+
+**Esercizio 1/A**
+Definire una funzione che stampi la stringa 'Ciao Mondo'
+
+**Esercizio 1/B**
+Richiamare la funzione definita prima
+
+**Esercizio 2/A**
+Definire una funzione che accetti due numeri in input, ne faccia la somma e la restituisca 
+
+**Esercizio 2/A**
+Chiamare la funzione che esegue la somma, assegnare il valore che restituisce ad una variabile e mostrare il risultato
