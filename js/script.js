@@ -150,23 +150,34 @@
 //     console.log(c);
 //  }
 
- function helloWorld(){
-   alert("Ciao Mondo");
- }
+//  function helloWorld(){
+//    alert("Ciao Mondo");
+//  }
 
 
- helloWorld();
+//  helloWorld();
 
 
- function numbers (n_1, n_2){
-   let somma = n_1 + n_2;
-   return somma
+//  function numbers (n_1, n_2){
+//    let somma = n_1 + n_2;
+//    return somma
 
-   // return n_1 + n_2;
- }
+//    // return n_1 + n_2;
+//  }
  
 
  
 
- let result = numbers (5, 9);
- console.log (result);
+//  let result = numbers (5, 9);
+//  console.log (result);
+
+
+function getOneStringFromTwo(x,y){
+  let string =` ${x}  ${y};`
+  return string;
+}
+let str = "ciao"
+let str_2 = "mondo"
+
+let stringa = getOneStringFromTwo(str, str_2);
+console.log(stringa);
