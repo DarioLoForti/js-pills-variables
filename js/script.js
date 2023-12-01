@@ -172,12 +172,23 @@
 //  console.log (result);
 
 
-function getOneStringFromTwo(x,y){
-  let string =` ${x}  ${y};`
-  return string;
-}
-let str = "ciao"
-let str_2 = "mondo"
+// function getOneStringFromTwo(x,y){
+//   let string =` ${x}  ${y};`
+//   return string;
+// }
+// let str = "ciao"
+// let str_2 = "mondo"
 
-let stringa = getOneStringFromTwo(str, str_2);
-console.log(stringa);
+// let stringa = getOneStringFromTwo(str, str_2);
+// console.log(stringa);
+
+
+setTimeout(function(){
+  alert("ciao a tutti")
+}, 3000)
+
+let cont = 0;
+setInterval(function(){
+console.log(cont++);
+}, 1000);
+
