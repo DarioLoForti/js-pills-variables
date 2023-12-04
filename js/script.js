@@ -183,12 +183,20 @@
 // console.log(stringa);
 
 
-setTimeout(function(){
-  alert("ciao a tutti")
-}, 3000)
+// setTimeout(function(){
+//   alert("ciao a tutti")
+// }, 3000)
 
-let cont = 0;
-setInterval(function(){
-console.log(cont++);
-}, 1000);
+// let cont = 0;
+// setInterval(function(){
+// console.log(cont++);
+// }, 1000);
 
+
+
+let persona = {
+  nome : "dario",
+  cognome : "lo forti"
+}
+
+persona.nome
